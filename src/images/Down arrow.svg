@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-Down_arrow">
+      <rect width="23" height="23"/>
+    </clipPath>
+  </defs>
+  <g id="Down_arrow" data-name="Down arrow" clip-path="url(#clip-Down_arrow)">
+    <g id="caret-right" transform="translate(4.135 15.709) rotate(-90)">
+      <path id="Path_2165" data-name="Path 2165" d="M4097.989,932.73l-8.418-7.365,8.418-7.365" transform="translate(-4089.571 -918)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
